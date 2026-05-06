@@ -1,12 +1,18 @@
-# devopscamp-amplify-sample
+# devopscamp-amplify
 
-DevOps Camp Amplifyハンズオンで使用するサンプルのタスク管理アプリケーションです。
+タスク管理アプリケーションです。
 
 ## 機能
 
 - タスクの追加・完了・削除
 - フィルタリング（すべて / 未完了 / 完了済み）
 - LocalStorageによるデータ保存（バックエンドAPI不要）
+
+
+
+https://github.com/user-attachments/assets/dc944e6e-9ba8-4f37-bd5a-137990fb1f7d
+
+
 
 ## 環境変数
 
@@ -21,4 +27,4 @@ npm install
 npm run dev
 ```
 
-ブラウザで http://localhost:3000 にアクセスしてください。
+ブラウザで http://localhost:3000 にアクセスして実施
