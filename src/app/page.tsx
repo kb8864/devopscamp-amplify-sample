@@ -144,7 +144,7 @@ export default function Home() {
       )}
 
       <footer className="mt-10 text-center text-xs text-gray-400">
-        DevOps Camp - Amplify Hands-on
+       Hands-on（自動デプロイ確認）
       </footer>
     </main>
   );
